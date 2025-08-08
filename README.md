@@ -3,6 +3,7 @@ DevOps Project – Git Best Practices
 
 Objective
 This project demonstrates managing a DevOps project using **Git best practices**, including branch management, pull requests, tagging, and proper commit history.
+"I have added images to the images/ folder. Please open the folder to view them."
 
 ---
 
